@@ -1,2 +1,3 @@
 "this is a test file created to push it to repository" 
 "this is inside branch bug-fix" 
+"this is after master test is updated" 
